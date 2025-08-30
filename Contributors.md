@@ -1,7 +1,6 @@
 
 # Contributors
 sardor Uchqunov
-- [Xephyronix] (https://github.com/Xephyronix)
 - [Yogendra K Narmada] (https://github.com/lazydeveloper9)
 - [Junya Katouda] (https://github.com/katoudaj)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
